@@ -2,7 +2,7 @@
 
 - 💎Software Enginner
 - 💻Estudando Java
-- 📚UNESA / Graduando em Gestão da tecnológia da informação
+- 📚Gestão da tecnológia da informação/ Engenharia de Software
 
 
 📲 Contatos

@@ -4,7 +4,7 @@
 
 ##💻 Entusiasta de Cibersegurança
 
-##📚 Graduado em Engenharia da Computação e Gestão da Tecnologia da Informação
+##📚 Engenharia da Computação e Gestão da Tecnologia da Informação
 
 
 📲 Contatos

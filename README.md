@@ -1,8 +1,10 @@
 ### Olá, meu nome é <strong>Victor Lucas!</strong>
 
-💎 Engenheiro de Software
-💻 Entusiasta de Cibersegurança
-📚 Graduado em Engenharia da Computação e Gestão da Tecnologia da Informação
+##💎 Engenheiro de Software
+
+##💻 Entusiasta de Cibersegurança
+
+##📚 Graduado em Engenharia da Computação e Gestão da Tecnologia da Informação
 
 
 📲 Contatos

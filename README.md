@@ -2,7 +2,7 @@
 
 - 💎Software Enginner
 - 💻Estudando Java
-- 📚Gestão da tecnológia da informação/ Engenharia de Software
+- 📚Gestão da tecnológia da informação/ Engenharia da Computação
 
 
 📲 Contatos

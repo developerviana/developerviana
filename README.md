@@ -17,11 +17,6 @@
  
 ## ♨︎ Linguagens
   <img src="https://skillicons.dev/icons?i=java,go&,perline=14" />
-  
-
-## ⚙️ Framework
-  <img src="https://skillicons.dev/icons?i=spring&perline=14" />
-
  
 
 

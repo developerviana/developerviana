@@ -44,7 +44,7 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-1zrg.onrender.com?user=Developerviana&theme=tokyonight-duo&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-1zrg.onrender.com?user=Vianadeveloper&theme=tokyonight-duo&hide_border=true&border_radius=4.6&locale=pt&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 

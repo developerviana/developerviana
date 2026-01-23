@@ -11,19 +11,20 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 
 ---
 
-## .NET
-Tenho profundo conhecimento no ecossistema Microsoft para construção de aplicações enterprise.
+
+
+### Backend 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-blue?style=for-the-badge)
+
+## .NET / ASP
 - **Frameworks**: .NET 6/7/8, .NET Core, ASP.NET Web API
 - **ORM & Dados**: Entity Framework Core, Dapper, SQL Server
 - **Patterns**: DDD, CQRS, Repository Pattern, Dependency Injection
 - **Testes**: xUnit, Moq
 - **Cloud**: Azure Functions, App Service
-
-### Backend & Core
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-blue?style=for-the-badge)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -41,7 +42,7 @@ Tenho profundo conhecimento no ecossistema Microsoft para construção de aplica
 
 <div align="center">
   <a href="https://github.com/developerviana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerviana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerviana&show_icons=true&theme=onedark&include_all_commits=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerviana&layout=compact&theme=dracula"/>
   </a>
 </div>

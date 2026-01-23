@@ -11,9 +11,7 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-### 💻 Especialista .NET
+## .NET
 Tenho profundo conhecimento no ecossistema Microsoft para construção de aplicações enterprise.
 - **Frameworks**: .NET 6/7/8, .NET Core, ASP.NET Web API
 - **ORM & Dados**: Entity Framework Core, Dapper, SQL Server

@@ -19,13 +19,6 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-blue?style=for-the-badge)
 
-## .NET / ASP
-- **Frameworks**: .NET 6/7/8, .NET Core, ASP.NET Web API
-- **ORM & Dados**: Entity Framework Core, Dapper, SQL Server
-- **Patterns**: DDD, CQRS, Repository Pattern, Dependency Injection
-- **Testes**: xUnit, Moq
-- **Cloud**: Azure Functions, App Service
-
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,6 +28,13 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 ![Microservices](https://img.shields.io/badge/Microservices-DDD-blueviolet?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Clean%20Code-green?style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+## .NET / ASP
+- **Frameworks**: .NET 6/7/8, .NET Core, ASP.NET Web API
+- **ORM & Dados**: Entity Framework Core, Dapper, SQL Server
+- **Patterns**: DDD, CQRS, Repository Pattern, Dependency Injection
+- **Testes**: xUnit, Moq
+- **Cloud**: Azure Functions, App Service
 
 ---
 

@@ -42,7 +42,7 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 
 <div align="center">
   <a href="https://github.com/developerviana">
-  <img height="270em" src="https://github-readme-stats.vercel.app/api?username=developerviana&show_icons=true&theme=onedark&include_all_commits=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerviana&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerviana&layout=compact&theme=dracula"/>
   </a>
 </div>

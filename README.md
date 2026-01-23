@@ -25,7 +25,7 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 
 ### Arquitetura, Infra & Mensageria
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-DDD-blueviolet?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Clean%20Code-green?style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
@@ -43,7 +43,9 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 <br/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats-1zrg.onrender.com?user=Developerviana&theme=tokyonight-duo&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats-1zrg.onrender.com?user=Developerviana&theme=tokyonight-duo&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 
 ---

@@ -13,6 +13,14 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 
 ## 🛠️ Tecnologias e Ferramentas
 
+### 💻 Especialista .NET
+Tenho profundo conhecimento no ecossistema Microsoft para construção de aplicações enterprise.
+- **Frameworks**: .NET 6/7/8, .NET Core, ASP.NET Web API
+- **ORM & Dados**: Entity Framework Core, Dapper, SQL Server
+- **Patterns**: DDD, CQRS, Repository Pattern, Dependency Injection
+- **Testes**: xUnit, Moq
+- **Cloud**: Azure Functions, App Service
+
 ### Backend & Core
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)

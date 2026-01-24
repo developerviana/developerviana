@@ -48,14 +48,13 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, util
 
 <br/>
 
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-1zrg.onrender.com/?user=developerviana&theme=tokyonight-duo&hide_border=true&border_radius=4.6&locale=pt&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developerviana/developerviana/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developerviana/developerviana/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/developerviana/developerviana/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-1zrg.onrender.com/?user=developerviana&theme=tokyonight-duo&hide_border=true&border_radius=4.6&locale=pt&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</div>
 

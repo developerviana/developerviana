@@ -1,7 +1,7 @@
 # Olá, eu sou o Victor Viana! 👋
 
-Sou um **Desenvolvedor** com sólida experiência em **ADVPL, .NET, Angular e Golang**. 
-Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, utilizando as melhores práticas de engenharia de software.
+Sou um **Desenvolvedor** com sólida experiência na construção de **microsserviços, sistemas distribuídos e soluções altamente escaláveis.**. 
+Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, especializado em arquitetura escalável, com experiência em CI/CD, conteinerização com Docker, monitoramento e observabilidade usando Zabbix e Grafana para garantir alta performance, estabilidade e entregas contínuas em ambientes distribuídos.
 
 - 🏗️ **Arquitetura Limpa (Clean Architecture)** e **Microserviços**.
 - 📨 Experiência sólida com **Mensageria** e sistemas distribuídos.

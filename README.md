@@ -16,7 +16,7 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, espe
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![ADVPL](https://img.shields.io/badge/ADVPL-TOTVS-blue?style=for-the-badge)
+![ADVPL](https://img.shields.io/badge/ADVPL-TLPP-blue?style=for-the-badge)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)

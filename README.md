@@ -20,7 +20,7 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, espe
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/VUE.JS-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB)
 
 ### Arquitetura, Infra & Mensageria
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)

@@ -35,10 +35,6 @@ Meu foco principal é o desenvolvimento de sistemas robustos e escaláveis, espe
 - **Testes**: xUnit, Moq
 - **Cloud**: Azure Functions, App Service
 
----
-
-## 📊 Estatísticas do GitHub
-
 <div align="center">
   <a href="https://github.com/developerviana">
   <img height="180em" src="https://githubstatus-bay.vercel.app/api?username=developerviana&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github"/>
